@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# include these files
+!README.md
+!assets
+!assets/*
+!.gitignore
